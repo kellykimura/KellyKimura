@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Kelly Kimura</h1>
 
-<!--
-**kellykimura/KellyKimura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Current Work
+**Scientific Researcher** Applied Software Engineering Research Laboratory – LaPESA
+Developing ML models (Scikit-Learn, Keras) to predict **Technical Debt** using classifiers (KNN, SVM, Random Forest).
 
-Here are some ideas to get you started:
+## Professional Background
+- **Scientific Research** - Word Embeending, KNN, Sentiment Analysis
+- **Development** - JavaScript, TypeScript, PHP, SolidJS, Docker, MySQL
+- **Tools** - Power BI, Python, R
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- Exploratory Data Analysis & Data Science
+- Analysis, Detection and Prediction of Technical Debt
+
+![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kellykimura&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kellykimura&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | ----------- | ----------- |
+
+
+ 
+  <div align="center" >
+<a href="https://skillicons.dev"   >
+  <img src="https://skillicons.dev/icons?i=git,java,vscode,javascript,css,html,github,mysql,python,c" />
+</a>
+  <br />
+
+  </div>
