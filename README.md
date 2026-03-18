@@ -1,6 +1,8 @@
 ### Hi, I'm Kelly Kimura
 
-### Current Work
+### <a href="https://kimurakelly.github.io/curriculum-vitae/cv.pdf" title="Curriculum Vitae" target="_blank" rel="noopener noreferrer">Curriculum Vitae</a>
+
+<!-- ### Current Work
 Data Scientist specialized in forecasting, price elasticity, and mathematical optimization, with hands-on experience building and maintaining scalable, production-grade analytics pipelines. Strong focus on statistical rigor, model governance, and integration with enterprise systems to support reliable, data-driven decision-making.
 
 ### Professional Background
@@ -15,4 +17,4 @@ Data Scientist specialized in forecasting, price elasticity, and mathematical op
 - **Languages** - English (Intermediate)...
 
 ### Currently Learning
-Currently deepening my knowledge of statistical modeling and linear regression, while improving practical skills in Python data manipulation (NumPy, Pandas) and MongoDB administration, with a focus on production-oriented data systems.
+Currently deepening my knowledge of statistical modeling and linear regression, while improving practical skills in Python data manipulation (NumPy, Pandas) and MongoDB administration, with a focus on production-oriented data systems. -->
