@@ -1,6 +1,6 @@
 ### Hi, I'm Kelly Kimura
 
-### <a href="[https://kimurakelly.github.io/curriculum-vitae/cv.pdf](https://kellykimura.github.io/curriculo/cv.pdf)" title="Curriculum Vitae" target="_blank" rel="noopener noreferrer">Curriculum Vitae</a>
+### <a href="https://kellykimura.github.io/curriculo/cv.pdf" title="Curriculum Vitae" target="_blank" rel="noopener noreferrer">Curriculum Vitae</a>
 
 <!-- ### Current Work
 Data Scientist specialized in forecasting, price elasticity, and mathematical optimization, with hands-on experience building and maintaining scalable, production-grade analytics pipelines. Strong focus on statistical rigor, model governance, and integration with enterprise systems to support reliable, data-driven decision-making.
